@@ -2,7 +2,7 @@ Roblox API Sites
 ================
 | Site | Description |
 | -: | :- |
-| [abtesting.roblox.com](https://abtesting.roblox.com/docs) | Endpoints for the A/B Testing framework |
+| [abtesting.roblox.com](https://abtesting.roblox.com/docs) | Endpoints for the A/B Testing framework [Not Operational] |
 | [accountinformation.roblox.com](https://accountinformation.roblox.com/docs) | All endpoints for acessing/modifying account information |
 | [accountsettings.roblox.com](https://accountsettings.roblox.com/docs) | All endpoints for account/user settings |
 | [adconfiguration.roblox.com](https://adconfiguration.roblox.com/docs) | Roblox Ad Configuration related endpoints |
