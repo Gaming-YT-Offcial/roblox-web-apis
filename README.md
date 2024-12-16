@@ -1,6 +1,9 @@
 > [!NOTE]
 > In Oct 2024, Roblox released a [Legacy API Overview](https://create.roblox.com/docs/cloud/legacy) page which documents nearly all of the API sites detailed below. We recommend you start there.
 
+> [!IMPORTANT]
+> This is a forcked repo from [Matthew Dean](https://github.com/matthewdean/roblox-web-apis). **This repo will not always be updated!**
+
 Roblox API Sites
 ================
 | Site | Description |
